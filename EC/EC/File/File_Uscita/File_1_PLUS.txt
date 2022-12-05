@@ -1,0 +1,5 @@
+[4, 2, 1]
+[5, 3, 1]
+[7, 6, 2]
+[8, 6, 5]
+;;; Riassunto [numero_insiemi=8, cardinalita'_dominio=10, numero_nodi_visitati=40, numero_nodi_totali=255, percentuale_nodi_visitati=15,69%, numero_partizioni_in_uscita=4, distribuzione_partizioni_in_uscita=[0, 0, 0, 4, 0, 0, 0, 0], distribuzione_cardinalita_in_ingresso=[0, 0, 0, 6, 2, 0, 0, 0, 0, 0]]
